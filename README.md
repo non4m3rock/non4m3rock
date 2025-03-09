@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end Web and UI/UX 
 - 🌱 I’m currently learning Front-end Web Development Learning Path
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkedin: april dian saputra
+- 📫 How to reach me on Linkedin: april dian saputra
 - ⚡ Fun fact: ...
 
 <!---
